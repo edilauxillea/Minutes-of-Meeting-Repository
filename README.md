@@ -24,7 +24,7 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-6. Download the model from [here](https://www.kaggle.com/code/iamyajat/meeting-transcript-summarization/data) and place it in the `assets/model` folder.
+6. Download the model and place it in the `assets/model` folder.
 7. Run the app
 ```
 streamlit run main.py
